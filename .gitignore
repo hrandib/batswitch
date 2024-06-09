@@ -1,0 +1,15 @@
+*.zip
+
+# Qbs
+build-*/
+*.qbs.user
+
+# KiCad
+*-backups/
+\#auto_saved_files#
+_autosave-*
+fp-info-cache
+gerbers/
+gerbers.*
+~*.lck
+*-bak
